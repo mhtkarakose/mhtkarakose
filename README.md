@@ -1,8 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Mehmet Karakose</h1>
+<h1 align="center">Hi 👋, I'm Mehmet</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mhtkarakose" alt="mhtkarakose" /> </p>
  
 
 ### 👨🏻‍💻 &nbsp;Highlights
@@ -55,3 +53,5 @@
 <a href="mailto:mhtkarakose@gmail.com"><img src="https://img.shields.io/badge/-mhtkarakose@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/mhtkarakose"><img src="https://img.shields.io/badge/-@mhtkarakose-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>   
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mhtkarakose" alt="mhtkarakose" /> </p>
