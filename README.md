@@ -5,7 +5,7 @@
 
 ### 👨🏻‍💻 &nbsp;Highlights
 
-💡 &nbsp;4 years of Full-Time development experience\
+💡 &nbsp;6 years of Full-Time development experience\
 ✍️ &nbsp;Community Organizer - Google Developer Groups\
 💬 &nbsp;Experienced public speaker about Google Cloud\
 🛫 &nbsp;Travelpreneur, IHA 0 pilot\
