@@ -30,8 +30,9 @@
 | Project | What | Stars |
 |---|---|---|
 | [ai-powered-java-backend-roadmap](https://github.com/mhtkarakose/ai-powered-java-backend-roadmap) | Prompt-driven, project-based path to Java backend mastery | ⭐ 14 |
+| [token-economy-calculator](https://github.com/mhtkarakose/token-economy-calculator) | LLM cost calculator — compare GPT, Claude, Gemini, Llama, Mistral by what actually hits your bill | — |
+| [mcp-registry](https://github.com/mhtkarakose/mcp-registry) | Enterprise GitHub Copilot MCP registry (v0.1 spec) — FastAPI + Railway | — |
 | [Software-Design-and-Architecture](https://github.com/mhtkarakose/Software-Design-and-Architecture) | Design patterns reference in Java | ⭐ 5 |
-| [GCP-PubSub-to-Firebase-RealTime-Database-with-NodeJS](https://github.com/mhtkarakose/GCP-PubSub-to-Firebase-RealTime-Database-with-NodeJS) | Cloud messaging integration on GCP | — |
 
 ### Speaking
 
