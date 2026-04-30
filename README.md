@@ -45,8 +45,7 @@ Open to talks, workshops, and mentoring — reach out via email.
 
 ### Latest writing
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Token Ekonomisi](https://mehmetkarakose.medium.com/token-ekonomisi-c4378c6d6d6b?source=rss-e9a682384333------2) <!-- (Thu Apr 16 2026 6:43 PM) -->- [Bankacılığın Geleceği: Gemma 3n ve Apple Foundation Models ile On-Device AI Dönemi](https://medium.com/tom-tech/bankac%C4%B1l%C4%B1%C4%9F%C4%B1n-gelece%C4%9Fi-gemma-3n-ve-apple-foundation-models-ile-on-device-ai-d%C3%B6nemi-5948d1b26597?source=rss-e9a682384333------2) <!-- (Fri Jun 27 2025 1:01 PM) -->- [Yeni Başlayanlar İçin Gen AI Terimleri](https://mehmetkarakose.medium.com/yeni-ba%C5%9Flayanlar-i%CC%87%C3%A7in-gen-ai-terimleri-c466efab83f5?source=rss-e9a682384333------2) <!-- (Wed May 21 2025 6:39 AM) -->- [AI-Powered Java Backend Developer Roadmap](https://mehmetkarakose.medium.com/ai-powered-java-backend-developer-roadmap-1386c6346109?source=rss-e9a682384333------2) <!-- (Thu Apr 10 2025 5:48 PM) -->- [Sayısal veriler ile DevFest’24 Izmir’e kimler geliyor?](https://mehmetkarakose.medium.com/say%C4%B1sal-veriler-ile-devfest24-izmir-e-kimler-geliyor-cff2311d2efd?source=rss-e9a682384333------2) <!-- (Wed Nov 27 2024 8:06 PM) --><!-- BLOG-POST-LIST:END -->
 
 [All posts on Medium →](https://medium.com/@mehmetkarakose)
 
