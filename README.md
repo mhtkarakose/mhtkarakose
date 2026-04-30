@@ -65,14 +65,5 @@ Open to talks, workshops, and mentoring — reach out via email.
 ### GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mhtkarakose&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhtkarakose&layout=compact&langs_count=8&hide_border=true&theme=github_dark" alt="Top languages" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mhtkarakose/mhtkarakose/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mhtkarakose/mhtkarakose/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/mhtkarakose/mhtkarakose/output/github-contribution-grid-snake.svg" />
-  </picture>
 </p>
